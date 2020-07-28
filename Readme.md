@@ -1,10 +1,11 @@
 ## Google Favicon
 
-<link rel="icon" type="image/png" href="http://www.google.com/s2/u/0/favicons?domain=https://naishe.in/"/>
+Add it in a link tag with rel="icon" and type="image/png"
+http://www.google.com/s2/u/0/favicons?domain=https://naishe.in/
 
 ## Font awesome cdn links
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"/>
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css
 
 ## Hero Pattern link
 
